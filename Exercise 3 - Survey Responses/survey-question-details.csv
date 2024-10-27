@@ -1,0 +1,9 @@
+﻿QuestionID,Question Long Text,Question Short Text,Question Type
+Q1,Which library do you visit most frequently?,Primary Library,Select
+Q2a,Library staff are considering offering or expanding the following library services. How much would each of the following improve your library experience? [More spaces for quiet or individual study],Expanded Services: Individual Study,Likert
+Q2b,Library staff are considering offering or expanding the following library services. How much would each of the following improve your library experience? [More spaces for collaborative study],Expanded Services: Collaborative Study,Likert
+Q2c,Library staff are considering offering or expanding the following library services. How much would each of the following improve your library experience? [More textbooks to check out for my classes],Expanded Services: Textbook Lending,Likert
+Q2d,Library staff are considering offering or expanding the following library services. How much would each of the following improve your library experience? [Better directional and informational signage for navigating the Libraries],Expanded Services: Signage,Likert
+Q2e,Library staff are considering offering or expanding the following library services. How much would each of the following improve your library experience? [Additional lockers or places to store personal belongings],Expanded Services: Lockers,Likert
+Q3,"How would you like to be informed about library services, events, workshops, and other helpful resources? (Select all that apply)",Communication Preferences,Multi-Select
+Q4,Any additional comments about Duke University Libraries?,Additional Comments,Free-Text
